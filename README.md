@@ -14,11 +14,15 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 
 ---
 
-## **Programming Languages**
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SFML.png' title='SFML' width = '30'/><img src = 
-'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
-'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
-'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
+## Programming Languages
+<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SQL.png' width = '30'/>
+
+## Technologies used
+
+<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SFML.png' title='SFML' width = '30'/><img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
 
 
 ---
