@@ -1,51 +1,60 @@
-## Hey there! Daniel here
-I'm a sophomore studying Computer science with a passion for anything digital<br/></br>
- <div style = "text-align:center"><img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Web+Developer;Tech+Enthusiast" /></div> 
+## **Hey there! Malak here** 👋  
+I'm a passionate **AI Engineer & Software Developer** with expertise in **machine learning, natural language processing (NLP), and full-stack development**. I love solving complex problems, building intelligent systems, and making data-driven decisions.
 
-<br/><br/>
- 
-[![LinkedIn badge](https://img.shields.io/badge/-DanielMichel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Daniel-Michel04)](https://www.linkedin.com/in/daniel-michel04/)  [![Gmail Badge](https://img.shields.io/badge/-danielmichel.30504@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmichel.30504@gmail.com)](mailto:asterp04@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMichel305" alt="DanielMichel305" /> </p>
+<div style="text-align:center">
+<img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;Machine+Learning+Specialist;Software+Developer" />
+</div>
 
+<br/>
 
+[![LinkedIn badge](https://img.shields.io/badge/-MalakMohameed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MalakMohameed)](https://www.linkedin.com/in/MalakMohameed)  
+[![Gmail Badge](https://img.shields.io/badge/-malak.mohamed.ai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malak.mohamed.ai@gmail.com)](mailto:malak.mohamed.ai@gmail.com)
 
-## Programming Languages
-<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SQL.png' width = '30'/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MalakMohameed" alt="MalakMohameed" /> </p>
 
-## Technologies used
+---
 
-<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SFML.png' title='SFML' width = '30'/><img src = 
-'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
-'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
-'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
+## **Programming Languages**
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/python.png' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/javascript.png' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/cpp.png' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/csharp.png' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/sql.png' width='30'/>  
 
+---
 
-## Who Am I?
+## **Technologies & Tools**
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/github.png' title='GitHub' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/mongodb.png' title='MongoDB' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/nodejs.png' title='Node.js' width='30'/>  
+<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/nlp.png' title='NLP' width='30'/>  
 
-``` C++
-class whoAmI
-{
+---
+
+## **Who Am I?**
+```cpp
+class WhoAmI {
     public:
-          string User = "Daniel Michel";
-          string currentWork = "Coding stuff";
-          string hobbies[5] = {
-                              "Coding",
-                              "Gaming",
-                              "Playing the Drums",
-                              "skating",
-                              "Playing squash"
-                              }
+        string User = "Malak Mohamed";
+        string CurrentWork = "Building AI-driven solutions";
+        string Hobbies[5] = {
+            "Coding",
+            "AI Research",
+            "Music",
+            "Reading",
+            "Fitness"
+        };
 
-          City getCity(){
-                        return Cairo_Egypt;
-          }
+        string getCity() {
+            return "Cairo, Egypt";
+        }
 
-          Ambitions getAmbitions(){
-                        CompetiveProgramming();
-                        lowLevelProgramming();
-                       //Many more Ambitions 
-
+        string getAmbitions() {
+            return "Pushing the boundaries of AI and software development!";
+        }
 };
-
-
 ```
+
+---
+
+🚀 **Let's connect and create something amazing together!**
