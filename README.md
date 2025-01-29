@@ -15,19 +15,11 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 ---
 
 ## **Programming Languages**
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/python.png' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/javascript.png' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/cpp.png' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/csharp.png' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/sql.png' width='30'/>  
+<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SFML.png' title='SFML' width = '30'/><img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
 
----
-
-## **Technologies & Tools**
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/github.png' title='GitHub' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/mongodb.png' title='MongoDB' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/nodejs.png' title='Node.js' width='30'/>  
-<img src='https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/nlp.png' title='NLP' width='30'/>  
 
 ---
 
