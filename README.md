@@ -15,22 +15,13 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 ---
 
 ## Programming Languages
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/c_original_logo.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/java.svg' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/HTML5_Badge.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/CSS3_logo.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/JavaScript-logo.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SQL.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/python.png' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/swift-programming-language-icon.png' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SQL.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/python.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/swift-programming-language-icon.png' width = '30'/>
 
 ## Technologies used
 
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/github.png' title='Github' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SFML.png' title='SFML' width = '30'/> 
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/TGUI.png' title='TGUI' width = '30'/>
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SFML.png' title='SFML' width = '30'/> <img src = 
+'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
+'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/UiKit.png' width = '30'/>
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/Pandas.png' width = '30'/>
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/Keras.png' width = '30'/>
