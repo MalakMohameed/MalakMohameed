@@ -26,6 +26,7 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/Pandas.png' width = '30'/>
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/Keras.png' width = '30'/>
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/tenserflow.png' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/nodejs.png' width = '30'/>
 
 
 ---
