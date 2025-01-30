@@ -7,8 +7,8 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 
 <br/>
 
-[![LinkedIn badge](https://img.shields.io/badge/-MalakMohameed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MalakMohameed)](https://www.linkedin.com/in/MalakMohameed)  
-[![Gmail Badge](https://img.shields.io/badge/-malakmohamedabdelrazeq04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malakmohamedabdelrazeq04@gmail.com)](mailto:malakmohamedabdelrazeq04@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/- Malak Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malak-mohamed-81a343212/)](https://www.linkedin.com/in/malak-mohamed-81a343212/)  
+[![Gmail Badge](https://img.shields.io/badge/- malakmohamedabdelrazeq04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malakmohamedabdelrazeq04@gmail.com)](mailto:malakmohamedabdelrazeq04@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MalakMohameed" alt="MalakMohameed" /> </p>
 
