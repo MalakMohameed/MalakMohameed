@@ -15,7 +15,7 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 ---
 
 ## Programming Languages
-<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SQL.png' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/SQL.png' width = '30'/><img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/python.png' width = '30'/>
 
 ## Technologies used
 
