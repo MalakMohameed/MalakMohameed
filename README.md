@@ -24,6 +24,9 @@ I'm a passionate **AI Engineer & Software Developer** with expertise in **machin
 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
 <img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/UiKit.png' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/Pandas.png' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/Keras.png' width = '30'/>
+<img src = 'https://github.com/MalakMohameed/MalakMohameed/blob/main/Images/tenserflow.png' width = '30'/>
 
 
 ---
