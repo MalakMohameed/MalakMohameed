@@ -36,9 +36,9 @@ class WhoAmI {
         string Hobbies[5] = {
             "Coding",
             "AI Research",
+            "Data science",
             "Music",
-            "Reading",
-            "Fitness"
+            "Gaming"
         };
 
         string getCity() {
