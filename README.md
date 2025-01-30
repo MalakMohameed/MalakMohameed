@@ -2,7 +2,7 @@
 I'm a passionate **AI Engineer & Software Developer** with expertise in **machine learning, natural language processing (NLP), and full-stack development**. I love solving complex problems, building intelligent systems, and making data-driven decisions.
 
 <div style="text-align:center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;Machine+Learning+Specialist;Software+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;Machine+Learning+Specialist;Software+Developer;Data+Scientist" />
 </div>
 
 <br/>
